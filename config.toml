@@ -242,15 +242,20 @@ defaultContentLanguageInSubdir = false
     url = "https://goo.gl/9oTr3e"
 
 [[menu.main]]
+  name = "Internships"
+  url = "#internship"
+  weight = 3
+
+[[menu.main]]
     name = "Projects"
-    weight = 3
+    weight = 4
     identifier = "Projects"
     url = "https://github.com/yelokesh?tab=overview&from=2017-12-09"
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 5
 
 # Taxonomies.
 #[taxonomies]
