@@ -33,6 +33,6 @@ weight = 5
  
 +++
 
-# Biography
+# About Me
 
 Hi! Myself Lokesh Yeole and I'm a final year undergraduate student pursuing my bachelor's in Material Science and Engineering from Indian Institute of Technology, Kanpur. I like to make beautiful things with data. I did my summer internship as a Data Scientist at SeeHow Pte Ltd. Apart from academics, I like to play cricket and video games.
