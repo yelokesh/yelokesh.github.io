@@ -24,3 +24,5 @@ Blueseed Ventures, US
 Formulated a preferential list of top US Contractors on the basis of best-selling home improvement & energy efficient services
 Compiled county-wise data from various relevant sources by data scraping techniques using tools: Scraper and ParseHub
 Analyzed compiled data by R using regression parameterized by service ratings from Google, Yelp and Home Advisor
+
+coming soon
