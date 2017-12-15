@@ -242,6 +242,12 @@ defaultContentLanguageInSubdir = false
     url = "https://goo.gl/9oTr3e"
 
 [[menu.main]]
+    name = "Projects"
+    weight = 3
+    identifier = "Projects"
+    url = "https://github.com/yelokesh?tab=overview&from=2017-12-09"
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 4
