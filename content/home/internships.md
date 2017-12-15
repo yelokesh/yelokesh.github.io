@@ -16,9 +16,9 @@ weight = 60
 +++
 
 Seehow Pte Ltd, Bangalore, India
-- Developed a model to detect the bowling events from the data imported from sensor fixed in a cricket ball
-- Implemented Random Forest, Neural Network and Naïve Bayes classification algorithms to build the model
-- Designed machine learning pipeline will be used for the development of Smart cricket balls by Seehow
+Developed a model to detect the bowling events from the data imported from sensor fixed in a cricket ball
+Implemented Random Forest, Neural Network and Naïve Bayes classification algorithms to build the model
+Designed machine learning pipeline will be used for the development of Smart cricket balls by Seehow
 
 Blueseed Ventures, US
 - Formulated a preferential list of top US Contractors on the basis of best-selling home improvement & energy efficient services
