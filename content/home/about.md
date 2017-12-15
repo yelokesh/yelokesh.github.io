@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Data Science",
     "Machine Learning",
-    "Artificial Intelligence"
+    "Artificial Intelligence",
+    "Social Medial Analytics"
   ]
 
 # List your qualifications (such as academic degrees).
