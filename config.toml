@@ -242,8 +242,8 @@ defaultContentLanguageInSubdir = false
     url = "https://goo.gl/9oTr3e"
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "Internships"
+  url = "#internships"
   weight = 3
 
 [[menu.main]]
