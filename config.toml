@@ -239,7 +239,7 @@ defaultContentLanguageInSubdir = false
     name = "CV"
     weight = 2
     identifier = "CV"
-    url = "https://drive.google.com/file/d/17S2ssE22gEVQALUXCA18yUKaQc4OTw0c/view?usp=sharing"
+    url = "https://drive.google.com/open?id=1C5CWLpU0cCycn2Rs4qv2eyfmflM6jQvK"
 
 [[menu.main]]
     name = "Projects"
